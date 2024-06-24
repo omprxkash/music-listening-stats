@@ -1,0 +1,621 @@
+{
+  "note": "One album I keep coming back to from each era — in roughly reverse chronological order. Each one has exactly one song in my Songs list that I'd start someone with.",
+  "albums": [
+    {
+      "title": "Let God Sort Em Out",
+      "artist": "Clipse",
+      "year": 2025,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "BRAT",
+      "artist": "Charli xcx",
+      "year": 2024,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "HIT ME HARD AND SOFT",
+      "artist": "Billie Eilish",
+      "year": 2024,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "SCARING THE HOES",
+      "artist": "JPEGMAFIA, Danny Brown",
+      "year": 2023,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "HEROES & VILLAINS",
+      "artist": "Metro Boomin, Future, Chris Brown",
+      "year": 2022,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "The Forever Story",
+      "artist": "JID",
+      "year": 2022,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Cheat Codes",
+      "artist": "Danger Mouse, Black Thought",
+      "year": 2022,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Mr. Morale & The Big Steppers",
+      "artist": "Kendrick Lamar",
+      "year": 2022,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Melt My Eyez See Your Future",
+      "artist": "Denzel Curry",
+      "year": 2022,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Sometimes I Might Be Introvert",
+      "artist": "Little Simz",
+      "year": 2021,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "An Evening With Silk Sonic",
+      "artist": "Silk Sonic",
+      "year": 2021,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Heaven Or Hell",
+      "artist": "Don Toliver",
+      "year": 2020,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "After Hours",
+      "artist": "The Weeknd",
+      "year": 2020,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "So Much Fun",
+      "artist": "Young Thug",
+      "year": 2019,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "IGOR",
+      "artist": "Tyler, The Creator",
+      "year": 2019,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Norman Fucking Rockwell!",
+      "artist": "Lana Del Rey",
+      "year": 2019,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "ASTROWORLD",
+      "artist": "Travis Scott",
+      "year": 2018,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Swimming",
+      "artist": "Mac Miller",
+      "year": 2018,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Die Lit",
+      "artist": "Playboi Carti",
+      "year": 2018,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Without Warning",
+      "artist": "21 Savage, Offset, Metro Boomin",
+      "year": 2017,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Luv Is Rage 2",
+      "artist": "Lil Uzi Vert",
+      "year": 2017,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "DAMN.",
+      "artist": "Kendrick Lamar",
+      "year": 2017,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Ctrl",
+      "artist": "SZA",
+      "year": 2017,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Blonde",
+      "artist": "Frank Ocean",
+      "year": 2016,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Lemonade",
+      "artist": "Beyoncé",
+      "year": 2016,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "The Life of Pablo",
+      "artist": "Kanye West",
+      "year": 2016,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "ANTI",
+      "artist": "Rihanna",
+      "year": 2016,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Rodeo",
+      "artist": "Travis Scott",
+      "year": 2015,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "AT.LONG.LAST.A$AP",
+      "artist": "A$AP Rocky",
+      "year": 2015,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Carrie & Lowell",
+      "artist": "Sufjan Stevens",
+      "year": 2015,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "To Pimp a Butterfly",
+      "artist": "Kendrick Lamar",
+      "year": 2015,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Currents",
+      "artist": "Tame Impala",
+      "year": 2015,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "2014 Forest Hills Drive",
+      "artist": "J. Cole",
+      "year": 2014,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "DS2",
+      "artist": "Future",
+      "year": 2015,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Nothing Was The Same",
+      "artist": "Drake",
+      "year": 2013,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Yeezus",
+      "artist": "Kanye West",
+      "year": 2013,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "good kid, m.A.A.d city",
+      "artist": "Kendrick Lamar",
+      "year": 2012,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "1999",
+      "artist": "Joey Bada$$",
+      "year": 2012,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "channel ORANGE",
+      "artist": "Frank Ocean",
+      "year": 2012,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Piñata",
+      "artist": "Freddie Gibbs, Madlib",
+      "year": 2014,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "LIVE.LOVE.A$AP",
+      "artist": "A$AP Rocky",
+      "year": 2011,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Take Care",
+      "artist": "Drake",
+      "year": 2011,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Trilogy",
+      "artist": "The Weeknd",
+      "year": 2012,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "My Beautiful Dark Twisted Fantasy",
+      "artist": "Kanye West",
+      "year": 2010,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Plastic Beach",
+      "artist": "Gorillaz",
+      "year": 2010,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Man On the Moon: The End of Day",
+      "artist": "Kid Cudi",
+      "year": 2009,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Tha Carter III",
+      "artist": "Lil Wayne",
+      "year": 2008,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "In Rainbows",
+      "artist": "Radiohead",
+      "year": 2007,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Graduation",
+      "artist": "Kanye West",
+      "year": 2007,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Lupe Fiasco's Food & Liquor",
+      "artist": "Lupe Fiasco",
+      "year": 2006,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Be",
+      "artist": "Common",
+      "year": 2005,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Madvillainy",
+      "artist": "Madvillain",
+      "year": 2004,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "The College Dropout",
+      "artist": "Kanye West",
+      "year": 2004,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "The Eminem Show",
+      "artist": "Eminem",
+      "year": 2002,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Get Rich or Die Tryin'",
+      "artist": "50 Cent",
+      "year": 2003,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "The Blueprint",
+      "artist": "JAY-Z",
+      "year": 2001,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Vespertine",
+      "artist": "Björk",
+      "year": 2001,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Discovery",
+      "artist": "Daft Punk",
+      "year": 2001,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Stankonia",
+      "artist": "Outkast",
+      "year": 2000,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "White Pony",
+      "artist": "Deftones",
+      "year": 2000,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "The Marshall Mathers LP",
+      "artist": "Eminem",
+      "year": 2000,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "2001",
+      "artist": "Dr. Dre",
+      "year": 1999,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Black On Both Sides",
+      "artist": "Mos Def",
+      "year": 1999,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "The Miseducation of Lauryn Hill",
+      "artist": "Lauryn Hill",
+      "year": 1998,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "OK Computer",
+      "artist": "Radiohead",
+      "year": 1997,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "All Eyez On Me",
+      "artist": "2Pac",
+      "year": 1996,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Ready To Die",
+      "artist": "The Notorious B.I.G.",
+      "year": 1994,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Illmatic",
+      "artist": "Nas",
+      "year": 1994,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Enter The Wu-Tang (36 Chambers)",
+      "artist": "Wu-Tang Clan",
+      "year": 1993,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Love Deluxe",
+      "artist": "Sade",
+      "year": 1992,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Nevermind",
+      "artist": "Nirvana",
+      "year": 1991,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "The Low End Theory",
+      "artist": "A Tribe Called Quest",
+      "year": 1991,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Master of Puppets",
+      "artist": "Metallica",
+      "year": 1986,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Purple Rain",
+      "artist": "Prince",
+      "year": 1984,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "year": 1976,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    },
+    {
+      "title": "Wish You Were Here",
+      "artist": "Pink Floyd",
+      "year": 1975,
+      "appleMusic": "",
+      "spotify": "",
+      "cover": ""
+    }
+  ]
+}

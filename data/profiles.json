@@ -1,0 +1,10 @@
+{
+  "note": "Where to find me around the music web. Just paste the public profile URL for each one — that's all anyone needs to follow along. Leave url blank to hide a row. To get a link: open your profile in the app or on the website, then copy the address.",
+  "profiles": [
+    { "platform": "Apple Music", "handle": "popcorn314", "url": "https://music.apple.com/profile/popcorn314" },
+    { "platform": "Spotify", "handle": "ygcplruc7a2hv3cr0wq3wwt47", "url": "https://open.spotify.com/user/ygcplruc7a2hv3cr0wq3wwt47" },
+    { "platform": "Album of the Year", "handle": "popcornai", "url": "https://www.albumoftheyear.org/user/popcornai/" },
+    { "platform": "RateYourMusic", "handle": "popcornai", "url": "https://rateyourmusic.com/~popcornai" },
+    { "platform": "Last.fm", "handle": "", "url": "" }
+  ]
+}

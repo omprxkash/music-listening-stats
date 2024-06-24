@@ -1,0 +1,19 @@
+{
+  "note": "Paste your Apple Music profile and playlist share links here. To get a share link: open the playlist in Apple Music (or music.apple.com), tap Share, then Copy Link. Spotify links work the same way.",
+  "profile": "https://music.apple.com/profile/popcorn314",
+  "playlists": [
+    {
+      "name": "2026",
+      "platform": "Apple Music",
+      "url": "https://music.apple.com/in/playlist/2026/pl.u-Ymb0922cgRAbZEW",
+      "note": "What I'm listening to in 2026.",
+      "tracklist": "2026"
+    },
+    {
+      "name": "On repeat lately",
+      "platform": "Spotify",
+      "url": "",
+      "note": "Whatever I can't stop playing this month."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "music-listening-stats",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A little corner of the web for my music: listening stats, favorite albums and songs, and the playlists I keep coming back to.",
+  "author": "omprxkash",
+  "license": "MIT",
+  "scripts": {
+    "dev": "concurrently -n server,client -c blue,magenta \"npm:server\" \"npm:client\"",
+    "demo": "concurrently -n server,client -c blue,magenta \"npm:server -- --demo\" \"npm:client\"",
+    "server": "tsx watch src/server/index.ts",
+    "client": "vite",
+    "seed": "tsx src/server/db/seed.ts",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.62.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.13.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.17",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "concurrently": "^9.1.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5",
+    "vitest": "^2.1.8"
+  }
+}

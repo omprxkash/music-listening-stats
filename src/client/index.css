@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-ink text-slate-100 font-sans antialiased;
+}
+
+.panel {
+  @apply bg-panel border border-edge rounded-2xl p-5;
+}
+
+.panel-title {
+  @apply text-sm font-semibold uppercase tracking-wider text-muted mb-4;
+}
+
+.pill {
+  @apply inline-flex items-center rounded-full border border-edge bg-ink/60 px-3 py-1 text-xs text-muted;
+}
